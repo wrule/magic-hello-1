@@ -15,10 +15,13 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@jimp/plugin-print": "^1.6.0",
     "@remix-run/cloudflare": "^2.14.0",
     "@remix-run/react": "^2.14.0",
     "@remix-run/server-runtime": "^2.14.0",
+    "dayjs": "^1.11.13",
     "isbot": "^4.1.0",
+    "jimp": "^1.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
